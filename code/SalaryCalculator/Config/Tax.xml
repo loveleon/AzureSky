@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="gb2312"?>
+<manager>
+	<tax version="2007" line="2000">
+     		<item level="1" min="0" max="500" rate="0.05" deduct="0" />
+	   	<item level="2" min="500" max="2000" rate="0.1" deduct="25" />
+		<item level="3" min="2000" max="5000" rate="0.15" deduct="125" />
+		<item level="4" min="5000" max="20000" rate="0.2" deduct="375" />
+		<item level="5" min="20000" max="40000" rate="0.25" deduct="1375" />
+		<item level="6" min="40000" max="60000" rate="0.3" deduct="3375" />
+		<item level="7" min="60000" max="80000" rate="0.35" deduct="6375" />
+		<item level="8" min="80000" max="100000" rate="0.4" deduct="10375" />
+		<item level="9" min="100000" max="99999999" rate="0.45" deduct="15375" />
+  	</tax>
+	<tax version="2011" line="3500">
+     		<item level="1" min="0" max="1500" rate="0.03" deduct="0" />
+	   	<item level="2" min="1500" max="4500" rate="0.1" deduct="105" />
+		<item level="3" min="4500" max="9000" rate="0.2" deduct="555" />
+		<item level="4" min="9000" max="35000" rate="0.25" deduct="1005" />
+		<item level="5" min="35000" max="55000" rate="0.3" deduct="2755" />
+		<item level="6" min="55000" max="80000" rate="0.35" deduct="5505" />
+		<item level="7" min="80000" max="99999999" rate="0.45" deduct="13505" />
+  	</tax>
+</manager>

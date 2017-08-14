@@ -1,0 +1,93 @@
+vector add 10 : 0
+vector add 100 : 0
+vector add 1000 : 0.001
+vector add 10000 : 0.006
+vector add 100000 : 0.057
+vector add 1000000 : 0.519
+vector add 10000000 : 5.163
+vector add reserve 10 : 0
+vector add reserve 100 : 0
+vector add reserve 1000 : 0.001
+vector add reserve 10000 : 0.005
+vector add reserve 100000 : 0.05
+vector add reserve 1000000 : 0.514
+vector add reserve 10000000 : 5.191
+vector add resize 10 : 0
+vector add resize 100 : 0
+vector add resize 1000 : 0
+vector add resize 10000 : 0
+vector add resize 100000 : 0.007
+vector add resize 1000000 : 0.066
+vector add resize 10000000 : 0.669
+list add 10 : 0
+list add 100 : 0
+list add 1000 : 0.016
+list add 10000 : 0.051
+list add 100000 : 0.356
+list add 1000000 : 3.558
+map add 10 : 0
+map add 100 : 0.001
+map add 1000 : 0.02
+map add 10000 : 0.222
+map add 100000 : 2.48
+vector traverse index 10 : 0
+vector traverse index 100 : 0
+vector traverse index 1000 : 0
+vector traverse index 10000 : 0.001
+vector traverse index 100000 : 0.011
+vector traverse index 1000000 : 0.115
+vector traverse index 10000000 : 1.145
+vector traverse iter after 10 : 0
+vector traverse iter after 100 : 0
+vector traverse iter after 1000 : 0.002
+vector traverse iter after 10000 : 0.022
+vector traverse iter after 100000 : 0.216
+vector traverse iter after 1000000 : 2.167
+vector traverse iter after 10000000 : 21.682
+vector traverse iter pre 10 : 0
+vector traverse iter pre 100 : 0
+vector traverse iter pre 1000 : 0.001
+vector traverse iter pre 10000 : 0.011
+vector traverse iter pre 100000 : 0.102
+vector traverse iter pre 1000000 : 0.915
+vector traverse iter pre 10000000 : 9.114
+list iter after 10 : 0
+list iter after 100 : 0.001
+list iter after 1000 : 0.003
+list iter after 10000 : 0.03
+list iter after 100000 : 0.257
+list iter after 1000000 : 2.384
+list iter pre 10 : 0
+list iter pre 100 : 0
+list iter pre 1000 : 0.001
+list iter pre 10000 : 0.009
+list iter pre 100000 : 0.102
+list iter pre 1000000 : 0.977
+map iter after 10 : 0
+map iter after 100 : 0
+map iter after 1000 : 0.003
+map iter after 10000 : 0.027
+map iter after 100000 : 0.273
+map iter pre 10 : 0
+map iter pre 100 : 0
+map iter pre 1000 : 0.002
+map iter pre 10000 : 0.016
+map iter pre 100000 : 0.135
+vector find by index 10 : 0
+vector find by index 100 : 0
+vector find by index 1000 : 0.001
+vector find by index 10000 : 0.001
+vector find by index 100000 : 0.009
+vector find by index 1000000 : 0.109
+vector find by index 10000000 : 0.905
+list find by ++iter 10 : 0
+list find by ++iter 100 : 0
+list find by ++iter 1000 : 0.001
+list find by ++iter 10000 : 0.006
+list find by ++iter 100000 : 0.068
+list find by ++iter 1000000 : 0.562
+map find by find 10 : 0
+map find by find 100 : 0
+map find by find 1000 : 0
+map find by find 10000 : 0
+map find by find 100000 : 0

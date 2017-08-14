@@ -1,0 +1,84 @@
+E:\AzureSky\code\LOC
+Total : 548
+Code : 441
+Space : 61
+Comment : 46
+
+E:\AzureSky\code\LOC\Code.cpp
+Total : 37
+Code : 27
+Space : 7
+Comment : 3
+
+E:\AzureSky\code\LOC\Code.h
+Total : 70
+Code : 53
+Space : 9
+Comment : 8
+
+E:\AzureSky\code\LOC\CodeC.cpp
+Total : 49
+Code : 43
+Space : 3
+Comment : 3
+
+E:\AzureSky\code\LOC\CodeC.h
+Total : 14
+Code : 8
+Space : 3
+Comment : 3
+
+E:\AzureSky\code\LOC\CodeC__.cpp
+Total : 49
+Code : 43
+Space : 3
+Comment : 3
+
+E:\AzureSky\code\LOC\CodeC__.h
+Total : 14
+Code : 8
+Space : 3
+Comment : 3
+
+E:\AzureSky\code\LOC\CodeManager.cpp
+Total : 161
+Code : 145
+Space : 12
+Comment : 4
+
+E:\AzureSky\code\LOC\CodeManager.h
+Total : 27
+Code : 19
+Space : 5
+Comment : 3
+
+E:\AzureSky\code\LOC\CodeXML.cpp
+Total : 45
+Code : 39
+Space : 3
+Comment : 3
+
+E:\AzureSky\code\LOC\CodeXML.h
+Total : 14
+Code : 8
+Space : 3
+Comment : 3
+
+E:\AzureSky\code\LOC\Header.h
+Total : 18
+Code : 12
+Space : 3
+Comment : 3
+
+E:\AzureSky\code\LOC\Tax.xml
+Total : 26
+Code : 23
+Space : 2
+Comment : 1
+
+E:\AzureSky\code\LOC\main.cpp
+Total : 24
+Code : 13
+Space : 5
+Comment : 6
+

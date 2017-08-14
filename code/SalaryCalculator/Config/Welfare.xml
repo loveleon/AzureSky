@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="gb2312"?>
+<manager>
+	<welfare name="北京" si_min="2089" si_max="15669" af_min="2089" af_max="15669">
+     		<item name="retire" company="0.2" personal="0.08" />
+	   	<item name="medical" company="0.1" personal="0.02" />
+		<item name="fire" company="0.01" personal="0.002" />
+	   	<item name="hurt" company="0.003" personal="0" />
+	   	<item name="birth" company="0.008" personal="0" />
+		<item name="fund" company="0.12" personal="0.12" />
+  	</welfare>
+	<welfare name="天津" si_min="2210" si_max="11331" af_min="1310" af_max="14508">
+     		<item name="retire" company="0.2" personal="0.08" />
+	   	<item name="medical" company="0.1" personal="0.02" />
+		<item name="fire" company="0.02" personal="0.01" />
+	   	<item name="hurt" company="0.005" personal="0" />
+	   	<item name="birth" company="0.008" personal="0" />
+		<item name="fund" company="0.11" personal="0.11" />
+  	</welfare>
+     	<welfare name="上海" si_min="2599" si_max="12993" af_min="1286" af_max="13000">
+     		<item name="retire" company="0.22" personal="0.08" />
+	   	<item name="medical" company="0.12" personal="0.02" />
+		<item name="fire" company="0.02" personal="0.01" />
+	   	<item name="hurt" company="0.005" personal="0" />
+	   	<item name="birth" company="0.005" personal="0" />
+		<item name="fund" company="0.07" personal="0.07" />
+  	</welfare>
+	<welfare name="广州" si_min="1300" si_max="12303" af_min="1300" af_max="12303">
+     		<item name="retire" company="0.2" personal="0.08" />
+	   	<item name="medical" company="0.08" personal="0.02" />
+		<item name="fire" company="0.02" personal="0.01" />
+	   	<item name="hurt" company="0.005" personal="0" />
+	   	<item name="birth" company="0.0085" personal="0" />
+		<item name="fund" company="0" personal="0" />
+  	</welfare>
+	<welfare name="深圳" si_min="2757" si_max="13785" af_min="1320" af_max="22975">
+     		<item name="retire" company="0.14" personal="0.08" />
+	   	<item name="medical" company="0.065" personal="0.02" />
+		<item name="fire" company="0.02" personal="0.01" />
+	   	<item name="hurt" company="0.008" personal="0" />
+	   	<item name="birth" company="0.005" personal="0" />
+		<item name="fund" company="0.13" personal="0.13" />
+  	</welfare>
+	<welfare name="其他" si_min="1000" si_max="15000" af_min="1000" af_max="15000">
+     		<item name="retire" company="0.2" personal="0.08" />
+	   	<item name="medical" company="0.1" personal="0.02" />
+		<item name="fire" company="0.01" personal="0.01" />
+	   	<item name="hurt" company="0.005" personal="0" />
+	   	<item name="birth" company="0.005" personal="0" />
+		<item name="fund" company="0.08" personal="0.08" />
+  	</welfare>
+</manager>
